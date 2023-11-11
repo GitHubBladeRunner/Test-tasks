@@ -1,0 +1,1 @@
+SELECT SUM(contract_duration) AS AllContractsDuration FROM appointments
